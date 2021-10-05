@@ -1,0 +1,21 @@
+=============== Oct 4, 2021 (IST) ===============
+15:42:35.644604 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:42:35.704640 db@open opening
+15:42:35.707107 version@stat F·[] S·0B[] Sc·[]
+15:42:35.748724 db@janitor F·2 G·0
+15:42:35.748925 db@open done T·44.174613ms
+15:42:35.750213 db@close closing
+15:42:35.750488 db@close done T·271.041µs
+=============== Oct 4, 2021 (IST) ===============
+15:42:51.206255 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:42:51.206541 version@stat F·[] S·0B[] Sc·[]
+15:42:51.206572 db@open opening
+15:42:51.206644 journal@recovery F·1
+15:42:51.208763 journal@recovery recovering @1
+15:42:51.228519 memdb@flush created L0@2 N·10 S·566B "HfP..\xb5\xc1X,v3":"r\x00\x00..\xb5\xc1X,v5"
+15:42:51.232148 version@stat F·[1] S·566B[566B] Sc·[0.25]
+15:42:51.318616 db@janitor F·3 G·0
+15:42:51.318776 db@open done T·112.16199ms
+=============== Oct 5, 2021 (IST) ===============
+07:58:33.017153 db@close closing
+07:58:33.018782 db@close done T·2.181781ms
