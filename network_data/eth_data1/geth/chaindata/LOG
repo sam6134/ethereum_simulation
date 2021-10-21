@@ -1,21 +1,18 @@
-=============== Oct 4, 2021 (IST) ===============
-15:42:28.095770 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-15:42:28.155502 db@open opening
-15:42:28.158025 version@stat F·[] S·0B[] Sc·[]
-15:42:28.198821 db@janitor F·2 G·0
-15:42:28.199018 db@open done T·43.414496ms
-15:42:28.201070 db@close closing
-15:42:28.201384 db@close done T·300.534µs
-=============== Oct 4, 2021 (IST) ===============
-15:42:45.807788 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-15:42:45.808048 version@stat F·[] S·0B[] Sc·[]
-15:42:45.808084 db@open opening
-15:42:45.808153 journal@recovery F·1
-15:42:45.810274 journal@recovery recovering @1
-15:42:45.831024 memdb@flush created L0@2 N·10 S·566B "HfP..\xb5\xc1X,v3":"r\x00\x00..\xb5\xc1X,v5"
-15:42:45.834309 version@stat F·[1] S·566B[566B] Sc·[0.25]
-15:42:45.920600 db@janitor F·3 G·0
-15:42:45.920743 db@open done T·112.630179ms
-=============== Oct 5, 2021 (IST) ===============
-07:58:36.384410 db@close closing
-07:58:36.385010 db@close done T·601.965µs
+=============== Oct 8, 2021 (IST) ===============
+14:15:51.307363 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:15:51.368782 db@open opening
+14:15:51.371974 version@stat F·[] S·0B[] Sc·[]
+14:15:51.411793 db@janitor F·2 G·0
+14:15:51.411861 db@open done T·42.982504ms
+14:15:51.412839 db@close closing
+14:15:51.412989 db@close done T·149.389µs
+=============== Oct 8, 2021 (IST) ===============
+14:16:00.155696 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:16:00.155944 version@stat F·[] S·0B[] Sc·[]
+14:16:00.155976 db@open opening
+14:16:00.156042 journal@recovery F·1
+14:16:00.158347 journal@recovery recovering @1
+14:16:00.178796 memdb@flush created L0@2 N·10 S·566B "HfP..\xb5\xc1X,v3":"r\x00\x00..\xb5\xc1X,v5"
+14:16:00.181775 version@stat F·[1] S·566B[566B] Sc·[0.25]
+14:16:00.263660 db@janitor F·3 G·0
+14:16:00.263744 db@open done T·107.744103ms
